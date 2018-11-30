@@ -127,6 +127,7 @@
     <Build Include="dbo\Tables\FOO.sql" />
     <Build Include="dbo\Tables\BARRY.sql" />
     <Build Include="dbo\Tables\flub.sql" />
+	<Build Include="dbo\Tables\Harry.sql" />
     <Build Include="dbo\Views\fooBar.sql" />
     <Build Include="dbo\Stored Procedures\insertFlub.sql" />
   </ItemGroup>
